@@ -1,4 +1,4 @@
-# Minmax Algorithm for Tic-Tac-Toe
+# Minimax Algorithm for Tic-Tac-Toe
 
 ## Description
 
