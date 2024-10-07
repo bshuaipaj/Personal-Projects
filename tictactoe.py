@@ -177,7 +177,6 @@ def flip(val):
 # print(TicTacToe.toMove(board, "o"))
 
 def play(ALGO, FIRST, MODE):
-    print("Shuaipaj, Besnik, A20542619 solution:")
     if ALGO == "1":
         print("Algorithm: MiniMax")
     else:
