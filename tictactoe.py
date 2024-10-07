@@ -75,7 +75,7 @@ class TicTacToe:
         string = " {} | {} | {} \n---+---+---\n {} | {} | {} \n---+---+---\n {} | {} | {} \n".format(state[0],state[1],state[2],state[3],state[4],state[5],state[6],state[7],state[8])
         print(string)
 
-# minmax no pruning
+# minimax no pruning
 
 node_number = 0
 
@@ -115,7 +115,7 @@ def minimax_search(game, state, player, first):
 
     return move, value, ret
 
-# minmax with pruning
+# minimax with pruning
 
 node_number_pruned = 0
 
